@@ -1,0 +1,14 @@
+{
+  "best_algo": "Agglomerative(ward)",
+  "best_params": {
+    "k": 2
+  },
+  "internal_metrics": {
+    "silhouette": 0.25332154928581485,
+    "calinski_harabasz": 2.312055469179339,
+    "davies_bouldin": 2.289770199399985,
+    "internal_score_norm": 0.972453096636513
+  },
+  "external_f1_macro_mapped": 0.0016890380313199106,
+  "n_clusters": 2
+}
